@@ -1,4 +1,6 @@
-baseURL = "http://KathrynLA.githu.io"
+gh_pages
+baseURL = "http://KathrynLA.github.io"
+KChanges
 title = "Medley Interlisp Project"
 
 #relativeURLs = true
@@ -242,6 +244,22 @@ params.ui.navbar_translucent_over_cover_disable = true
   url = "https://twitter.com/interlisp8"
   icon = "fab fa-twitter"
   desc = "Follow us on Twitter to get the latest news!"
+[[params.links.user]]
+  name = "Donate"
+  url = "https://interlisp.org/contribute"
+  desc = "Donate to InterlispOrg Inc."
+[[params.links.user]]
+  name = "Partners"
+  url = "https://interlisp.org/about/partners/"
+  desc = "Organizational Partners"        
+[[params.links.user]]
+  name = "Credits"
+  url = "https://interlisp.org/credits/"
+  desc = "Credits"
+[[params.links.user]]
+  name = "In Memoriam"
+  url = "https://interlisp.org/credits/in-memoriam/"
+  desc = "In Memoriam"
 # [[params.links.user]]
 #  name = "Stack Overflow"
 #  url = "https://stackoverflow.com/questions/tagged/graphviz"
@@ -253,6 +271,18 @@ params.ui.navbar_translucent_over_cover_disable = true
   url = "https://github.com/interlisp"
   icon = "fab fa-github"
         desc = "Development takes place here!"
+[[params.links.developer]]
+  name = "Particpate"
+  url = "https://interlisp.org/Participate/"
+  desc = "Participate"        
+[[params.links.developer]]
+  name = "What People are Saying"
+  url = "https://interlisp.org/about/comments/"
+  desc = "What People are Saying"        
+[[params.links.developer]]
+  name = "News"
+  url = "https://interlisp.org/news/"
+  desc = "News"        
 # [[params.links.developer]]
 #   name = "Slack"
 #   url = "https://example.org/slack"

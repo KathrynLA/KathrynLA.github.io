@@ -1,10 +1,9 @@
 gh_pages
-gh_pages
 baseURL = "http://KathrynLA.github.io"
 KChanges
 =======
 baseURL = "http://KathrynLA.github.io"
-KChanges
+main
 title = "Medley Interlisp Project"
 
 #relativeURLs = true

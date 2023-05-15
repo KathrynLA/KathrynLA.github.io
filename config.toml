@@ -245,19 +245,22 @@ params.ui.navbar_translucent_over_cover_disable = true
 [[params.links.user]]
   name = "Donate to InterlispOrg"
   url = "https://interlisp.org/contribute"
-  icon = "circle-dollar-to-slot-solid"
+  icon = "circle-dollar-to-slot-solid.svg"
   desc = "Donate to InterlispOrg Inc."
 [[params.links.user]]
   name = "Partners"
   url = "https://interlisp.org/about/partners/"
+  icon = "handshake-regular.svg"
   desc = "Organizational Partners"        
 [[params.links.user]]
   name = "Credits"
   url = "https://interlisp.org/credits/"
+  icon = "people-group-solid.svg"
   desc = "Credits"
 [[params.links.user]]
   name = "In Memoriam"
   url = "https://interlisp.org/credits/in-memoriam/"
+  icon = "fire-flame-curved-solid.svg"
   desc = "In Memoriam"
 # [[params.links.user]]
 #  name = "Stack Overflow"
@@ -273,14 +276,17 @@ params.ui.navbar_translucent_over_cover_disable = true
 [[params.links.developer]]
   name = "Particpate"
   url = "https://interlisp.org/Participate/"
+  icon = "door-open-solid.svg"
   desc = "Participate"        
 [[params.links.developer]]
   name = "What People are Saying"
   url = "https://interlisp.org/about/comments/"
+  icon = "earth-oceania-solid.svg"
   desc = "What People are Saying"        
 [[params.links.developer]]
   name = "News"
   url = "https://interlisp.org/news/"
+  Icon = "newspaper-regular.svg"
   desc = "News"        
 # [[params.links.developer]]
 #   name = "Slack"

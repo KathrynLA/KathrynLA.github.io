@@ -245,7 +245,7 @@ params.ui.navbar_translucent_over_cover_disable = true
 [[params.links.user]]
   name = "Donate to InterlispOrg"
   url = "https://interlisp.org/contribute"
-  
+  icon = "circle-dollar-to-slot-solid"
   desc = "Donate to InterlispOrg Inc."
 [[params.links.user]]
   name = "Partners"

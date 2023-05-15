@@ -243,9 +243,9 @@ params.ui.navbar_translucent_over_cover_disable = true
   icon = "fab fa-twitter"
   desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
-  name = "Donate"
+  name = "Donate to InterlispOrg"
   url = "https://interlisp.org/contribute"
-  icon = "circle-dollar-to-slot-solid"
+  
   desc = "Donate to InterlispOrg Inc."
 [[params.links.user]]
   name = "Partners"
